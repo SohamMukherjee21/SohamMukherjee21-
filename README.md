@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohamMukherjee21&label=Profile%20views&color=red&style=flat" alt="SohamMukherjee21" /> </p>
 
-<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="350">
+<img align="right" src="https://cdn.dribbble.com/users/2147021/screenshots/4704853/managertyping.gif" width="350">
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science & Engineering
 - 🌱 I’m currently learning **Node.js, Express.js**
